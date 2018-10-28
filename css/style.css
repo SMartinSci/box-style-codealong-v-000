@@ -212,6 +212,10 @@ header {
 
 /*////////// NAVBAR //////////*/
 
+#navbar{
+  position: fixed;
+}
+
 
 
 /*////////// LOGO //////////*/
